@@ -18,7 +18,7 @@ python -m pip install -r requirements.txt
 # Forma de usar
 
 ```
-usage: NER quechua sureño
+usage: POS-Tagging quechua sureño
 
 required arguments:
   -t root_train, --train root_train
@@ -51,7 +51,7 @@ python src/main.py -i
 python src/main.py -u pos_quechua/resources/data.csv -o pos_quechua/results/
 ```
 
-## Entrenar nuevo modelo NER
+## Entrenar nuevo modelo POS-Tagging
 
 ```
 python src/main.py -t pos_quechua/resources/train_qu_pos.csv -e pos_quechua/resources/test_qu_pos.csv -o pos_quechua/results/

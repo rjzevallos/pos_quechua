@@ -1,0 +1,3 @@
+text	NER
+Lima y Roberto allinlla	[{'entity': 'I-PER', 'score': 0.8700973, 'index': 1, 'word': 'Lima', 'start': 0, 'end': 4}, {'entity': 'I-LOC', 'score': 0.5901565, 'index': 3, 'word': 'ĠRoberto', 'start': 7, 'end': 14}, {'entity': 'B-PER', 'score': 0.9869796, 'index': 4, 'word': 'Ġallinlla', 'start': 15, 'end': 23}]
+Panichay Ayacucho ari	[{'entity': 'I-PER', 'score': 0.98788154, 'index': 1, 'word': 'P', 'start': 0, 'end': 1}, {'entity': 'I-PER', 'score': 0.6917279, 'index': 2, 'word': 'ani', 'start': 1, 'end': 4}, {'entity': 'B-PER', 'score': 0.9718901, 'index': 4, 'word': 'ĠAyacucho', 'start': 9, 'end': 17}, {'entity': 'B-PER', 'score': 0.467603, 'index': 5, 'word': 'Ġari', 'start': 18, 'end': 21}]

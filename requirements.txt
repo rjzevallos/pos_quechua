@@ -1,0 +1,7 @@
+pandas
+simpletransformers
+sklearn
+argparse
+tqdm
+transformers
+torch
